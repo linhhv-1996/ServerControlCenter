@@ -1,0 +1,421 @@
+[
+    {
+        "topic": "minimal",
+        "data": [
+            {
+                "id": "travel",
+                "title": "Travel",
+                "icons": [
+                    {
+                        "package": "com.android.camera",
+                        "path": "ic_camera.png"
+                    },
+                    {
+                        "package": "com.android.chrome",
+                        "path": "ic_chrome.png"
+                    },
+                    {
+                        "package": "com.facebook.katana",
+                        "path": "ic_fb.png"
+                    },
+                    {
+                        "package": "com.instagram.android",
+                        "path": "ic_ins.png"
+                    },
+                    {
+                        "package": "com.google.android.apps.maps",
+                        "path": "ic_map.png"
+                    },
+                    {
+                        "package": "com.google.android.apps.messaging",
+                        "path": "ic_message.png"
+                    },
+                    {
+                        "package": "com.google.android.dialer",
+                        "path": "ic_phone.png"
+                    },
+                    {
+                        "package": "com.android.settings",
+                        "path": "ic_setting.png"
+                    },
+                    {
+                        "package": "com.twitter.android",
+                        "path": "ic_x.png"
+                    },
+                    {
+                        "package": "com.google.android.youtube",
+                        "path": "ic_ytb.png"
+                    }
+                ]
+            },
+            {
+                "id": "merry_christmas",
+                "title": "Merry Christmas",
+                "icons": [
+                    {
+                        "package": "com.google.android.calendar",
+                        "path": "ic_calendar.png"
+                    },
+                    {
+                        "package": "com.android.camera",
+                        "path": "ic_camera.png"
+                    },
+                    {
+                        "package": "com.android.chrome",
+                        "path": "ic_chrome.png"
+                    },
+                    {
+                        "package": "com.facebook.katana",
+                        "path": "ic_fb.png"
+                    },
+                    {
+                        "package": "com.instagram.android",
+                        "path": "ic_ins.png"
+                    },
+                    {
+                        "package": "com.google.android.apps.maps",
+                        "path": "ic_map.png"
+                    },
+                    {
+                        "package": "com.google.android.apps.messaging",
+                        "path": "ic_message.png"
+                    },
+                    {
+                        "package": "com.google.android.dialer",
+                        "path": "ic_phone.png"
+                    },
+                    {
+                        "package": "com.android.settings",
+                        "path": "ic_setting.png"
+                    },
+                    {
+                        "package": "com.google.android.youtube",
+                        "path": "ic_ytb.png"
+                    }
+                ]
+            },
+            {
+                "id": "funny",
+                "title": "Funny",
+                "icons": [
+                    {
+                        "package": "com.android.camera",
+                        "path": "ic_camera.png"
+                    },
+                    {
+                        "package": "com.android.chrome",
+                        "path": "ic_chrome.png"
+                    },
+                    {
+                        "package": "com.facebook.katana",
+                        "path": "ic_fb.png"
+                    },
+                    {
+                        "package": "com.instagram.android",
+                        "path": "ic_ins.png"
+                    },
+                    {
+                        "package": "com.google.android.apps.maps",
+                        "path": "ic_map.png"
+                    },
+                    {
+                        "package": "com.google.android.apps.messaging",
+                        "path": "ic_message.png"
+                    },
+                    {
+                        "package": "com.google.android.dialer",
+                        "path": "ic_phone.png"
+                    },
+                    {
+                        "package": "com.android.settings",
+                        "path": "ic_setting.png"
+                    },
+                    {
+                        "package": "com.twitter.android",
+                        "path": "ic_x.png"
+                    },
+                    {
+                        "package": "com.google.android.youtube",
+                        "path": "ic_ytb.png"
+                    }
+                ]
+            },
+            {
+                "id": "halloween",
+                "title": "Halloween",
+                "icons": [
+                    {
+                        "package": "com.android.camera",
+                        "path": "ic_camera.png"
+                    },
+                    {
+                        "package": "com.android.chrome",
+                        "path": "ic_chrome.png"
+                    },
+                    {
+                        "package": "com.facebook.katana",
+                        "path": "ic_fb.png"
+                    },
+                    {
+                        "package": "com.instagram.android",
+                        "path": "ic_ins.png"
+                    },
+                    {
+                        "package": "com.google.android.apps.maps",
+                        "path": "ic_map.png"
+                    },
+                    {
+                        "package": "com.google.android.apps.messaging",
+                        "path": "ic_message.png"
+                    },
+                    {
+                        "package": "com.google.android.dialer",
+                        "path": "ic_phone.png"
+                    },
+                    {
+                        "package": "com.android.settings",
+                        "path": "ic_setting.png"
+                    },
+                    {
+                        "package": "com.twitter.android",
+                        "path": "ic_x.png"
+                    },
+                    {
+                        "package": "com.google.android.youtube",
+                        "path": "ic_ytb.png"
+                    }
+                ]
+            },
+            {
+                "id": "buddhist",
+                "title": "Buddhist",
+                "icons": [
+                    {
+                        "package": "com.android.camera",
+                        "path": "ic_camera.png"
+                    },
+                    {
+                        "package": "com.android.chrome",
+                        "path": "ic_chrome.png"
+                    },
+                    {
+                        "package": "com.google.android.gm",
+                        "path": "ic_email.png"
+                    },
+                    {
+                        "package": "com.facebook.katana",
+                        "path": "ic_fb.png"
+                    },
+                    {
+                        "package": "com.instagram.android",
+                        "path": "ic_ins.png"
+                    },
+                    {
+                        "package": "com.google.android.apps.maps",
+                        "path": "ic_map.png"
+                    },
+                    {
+                        "package": "com.google.android.apps.messaging",
+                        "path": "ic_message.png"
+                    },
+                    {
+                        "package": "com.google.android.dialer",
+                        "path": "ic_phone.png"
+                    },
+                    {
+                        "package": "com.android.settings",
+                        "path": "ic_setting.png"
+                    },
+                    {
+                        "package": "com.google.android.youtube",
+                        "path": "ic_ytb.png"
+                    }
+                ]
+            },
+            {
+                "id": "valentine_day",
+                "title": "Valentine day",
+                "icons": [
+                    {
+                        "package": "com.google.android.calendar",
+                        "path": "ic_calendar.png"
+                    },
+                    {
+                        "package": "com.android.chrome",
+                        "path": "ic_chrome.png"
+                    },
+                    {
+                        "package": "com.google.android.gm",
+                        "path": "ic_email.png"
+                    },
+                    {
+                        "package": "com.facebook.katana",
+                        "path": "ic_fb.png"
+                    },
+                    {
+                        "package": "com.instagram.android",
+                        "path": "ic_ins.png"
+                    },
+                    {
+                        "package": "com.google.android.apps.maps",
+                        "path": "ic_map.png"
+                    },
+                    {
+                        "package": "com.google.android.apps.messaging",
+                        "path": "ic_message.png"
+                    },
+                    {
+                        "package": "com.google.android.dialer",
+                        "path": "ic_phone.png"
+                    },
+                    {
+                        "package": "com.google.android.apps.photos",
+                        "path": "ic_photo.png"
+                    },
+                    {
+                        "package": "com.android.settings",
+                        "path": "ic_setting.png"
+                    }
+                ]
+            },
+            {
+                "id": "kitchen_guardians",
+                "title": "Kitchen guardians",
+                "icons": [
+                    {
+                        "package": "com.android.camera",
+                        "path": "ic_camera.png"
+                    },
+                    {
+                        "package": "com.android.chrome",
+                        "path": "ic_chrome.png"
+                    },
+                    {
+                        "package": "com.facebook.katana",
+                        "path": "ic_fb.png"
+                    },
+                    {
+                        "package": "com.instagram.android",
+                        "path": "ic_ins.png"
+                    },
+                    {
+                        "package": "com.google.android.apps.maps",
+                        "path": "ic_map.png"
+                    },
+                    {
+                        "package": "com.google.android.apps.messaging",
+                        "path": "ic_message.png"
+                    },
+                    {
+                        "package": "com.google.android.dialer",
+                        "path": "ic_phone.png"
+                    },
+                    {
+                        "package": "com.android.settings",
+                        "path": "ic_setting.png"
+                    },
+                    {
+                        "package": "com.twitter.android",
+                        "path": "ic_x.png"
+                    },
+                    {
+                        "package": "com.google.android.youtube",
+                        "path": "ic_ytb.png"
+                    }
+                ]
+            },
+            {
+                "id": "dolls_masks",
+                "title": "Dolls masks",
+                "icons": [
+                    {
+                        "package": "com.android.camera",
+                        "path": "ic_camera.png"
+                    },
+                    {
+                        "package": "com.android.chrome",
+                        "path": "ic_chrome.png"
+                    },
+                    {
+                        "package": "com.google.android.gm",
+                        "path": "ic_email.png"
+                    },
+                    {
+                        "package": "com.facebook.katana",
+                        "path": "ic_fb.png"
+                    },
+                    {
+                        "package": "com.instagram.android",
+                        "path": "ic_ins.png"
+                    },
+                    {
+                        "package": "com.google.android.apps.maps",
+                        "path": "ic_map.png"
+                    },
+                    {
+                        "package": "com.google.android.apps.messaging",
+                        "path": "ic_message.png"
+                    },
+                    {
+                        "package": "com.google.android.dialer",
+                        "path": "ic_phone.png"
+                    },
+                    {
+                        "package": "com.android.settings",
+                        "path": "ic_setting.png"
+                    },
+                    {
+                        "package": "com.google.android.youtube",
+                        "path": "ic_ytb.png"
+                    }
+                ]
+            },
+            {
+                "id": "happy_birthday",
+                "title": "Happy birthday",
+                "icons": [
+                    {
+                        "package": "com.android.camera",
+                        "path": "ic_camera.png"
+                    },
+                    {
+                        "package": "com.android.chrome",
+                        "path": "ic_chrome.png"
+                    },
+                    {
+                        "package": "com.google.android.gm",
+                        "path": "ic_email.png"
+                    },
+                    {
+                        "package": "com.facebook.katana",
+                        "path": "ic_fb.png"
+                    },
+                    {
+                        "package": "com.instagram.android",
+                        "path": "ic_ins.png"
+                    },
+                    {
+                        "package": "com.google.android.apps.maps",
+                        "path": "ic_map.png"
+                    },
+                    {
+                        "package": "com.google.android.apps.messaging",
+                        "path": "ic_message.png"
+                    },
+                    {
+                        "package": "com.google.android.dialer",
+                        "path": "ic_phone.png"
+                    },
+                    {
+                        "package": "com.android.settings",
+                        "path": "ic_setting.png"
+                    },
+                    {
+                        "package": "com.google.android.youtube",
+                        "path": "ic_ytb.png"
+                    }
+                ]
+            }
+        ]
+    }
+]

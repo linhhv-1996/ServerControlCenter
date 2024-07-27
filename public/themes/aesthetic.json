@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "category": "aesthetic",
+        "bg": "aesthetic/aesthetic_1.png"
+    },
+    {
+        "id": 2,
+        "category": "aesthetic",
+        "bg": "aesthetic/aesthetic_2.png"
+    },
+    {
+        "id": 3,
+        "category": "aesthetic",
+        "bg": "aesthetic/aesthetic_3.png"
+    },
+    {
+        "id": 4,
+        "category": "aesthetic",
+        "bg": "aesthetic/aesthetic_4.png"
+    },
+    {
+        "id": 5,
+        "category": "aesthetic",
+        "bg": "aesthetic/aesthetic_5.png"
+    },
+    {
+        "id": 6,
+        "category": "aesthetic",
+        "bg": "aesthetic/aesthetic_6.png"
+    },
+    {
+        "id": 7,
+        "category": "aesthetic",
+        "bg": "aesthetic/aesthetic_7.png"
+    },
+    {
+        "id": 8,
+        "category": "aesthetic",
+        "bg": "aesthetic/aesthetic_8.png"
+    },
+    {
+        "id": 9,
+        "category": "aesthetic",
+        "bg": "aesthetic/aesthetic_9.png"
+    },
+    {
+        "id": 10,
+        "category": "aesthetic",
+        "bg": "aesthetic/aesthetic_10.png"
+    },
+    {
+        "id": 11,
+        "category": "aesthetic",
+        "bg": "aesthetic/aesthetic_11.png"
+    },
+    {
+        "id": 12,
+        "category": "aesthetic",
+        "bg": "aesthetic/aesthetic_12.png"
+    },
+    {
+        "id": 13,
+        "category": "aesthetic",
+        "bg": "aesthetic/aesthetic_13.png"
+    },
+    {
+        "id": 14,
+        "category": "aesthetic",
+        "bg": "aesthetic/aesthetic_14.png"
+    },
+    {
+        "id": 15,
+        "category": "aesthetic",
+        "bg": "aesthetic/aesthetic_15.png"
+    },
+    {
+        "id": 16,
+        "category": "aesthetic",
+        "bg": "aesthetic/aesthetic_16.png"
+    }
+]

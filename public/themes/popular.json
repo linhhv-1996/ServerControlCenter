@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "category": "ai",
+        "path": "popular/popular_1.png"
+    },
+    {
+        "id": 2,
+        "category": "ai",
+        "path": "popular/popular_2.png"
+    },
+    {
+        "id": 3,
+        "category": "natural",
+        "path": "popular/popular_3.png"
+    },
+    {
+        "id": 4,
+        "category": "ai",
+        "path": "popular/popular_4.png"
+    },
+    {
+        "id": 5,
+        "category": "natural",
+        "path": "popular/popular_5.png"
+    },
+    {
+        "id": 6,
+        "category": "natural",
+        "path": "popular/popular_6.png"
+    },
+    {
+        "id": 7,
+        "category": "anime",
+        "path": "popular/popular_7.png"
+    },
+    {
+        "id": 8,
+        "category": "Aesthetic",
+        "path": "popular/popular_8.png"
+    },
+    {
+        "id": 9,
+        "category": "natural",
+        "path": "popular/popular_9.png"
+    },
+    {
+        "id": 10,
+        "category": "natural",
+        "path": "popular/popular_10.png"
+    }
+]

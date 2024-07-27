@@ -1,0 +1,57 @@
+[
+    {
+        "id": 1,
+        "category": "holiday",
+        "path": "holiday/holiday_1.png"
+    },
+    {
+        "id": 2,
+        "category": "holiday",
+        "path": "holiday/holiday_2.png"
+    },
+    {
+        "id": 3,
+        "category": "holiday",
+        "path": "holiday/holiday_3.png"
+    },
+    {
+        "id": 4,
+        "category": "holiday",
+        "path": "holiday/holiday_4.png"
+    },
+    {
+        "id": 5,
+        "category": "holiday",
+        "path": "holiday/holiday_5.png"
+    },
+    {
+        "id": 6,
+        "category": "holiday",
+        "path": "holiday/holiday_6.png"
+    },
+    {
+        "id": 7,
+        "category": "holiday",
+        "path": "holiday/holiday_7.png"
+    },
+    {
+        "id": 8,
+        "category": "holiday",
+        "path": "holiday/holiday_8.png"
+    },
+    {
+        "id": 9,
+        "category": "holiday",
+        "path": "holiday/holiday_9.png"
+    },
+    {
+        "id": 10,
+        "category": "holiday",
+        "path": "holiday/holiday_10.png"
+    },
+    {
+        "id": 11,
+        "category": "holiday",
+        "path": "holiday/holiday_11.png"
+    }
+]

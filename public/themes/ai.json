@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "category": "ai",
+        "bg": "ai/ai_1.png"
+    },
+    {
+        "id": 2,
+        "category": "ai",
+        "bg": "ai/ai_2.png"
+    },
+    {
+        "id": 3,
+        "category": "ai",
+        "bg": "ai/ai_3.png"
+    },
+    {
+        "id": 4,
+        "category": "ai",
+        "bg": "ai/ai_4.png"
+    },
+    {
+        "id": 5,
+        "category": "ai",
+        "bg": "ai/ai_5.png"
+    },
+    {
+        "id": 6,
+        "category": "ai",
+        "bg": "ai/ai_6.png"
+    },
+    {
+        "id": 7,
+        "category": "ai",
+        "bg": "ai/ai_7.png"
+    },
+    {
+        "id": 8,
+        "category": "ai",
+        "bg": "ai/ai_8.png"
+    },
+    {
+        "id": 9,
+        "category": "ai",
+        "bg": "ai/ai_9.png"
+    }
+]

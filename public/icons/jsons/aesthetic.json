@@ -1,0 +1,428 @@
+[
+    {
+        "topic": "aesthetic",
+        "data": [
+            {
+                "id": "purple_flower",
+                "title": "Purple Flower",
+                "icons": [
+                    {
+                        "package": "com.google.android.gm",
+                        "path": "ic_email.png"
+                    },
+                    {
+                        "package": "com.facebook.katana",
+                        "path": "ic_fb.png"
+                    },
+                    {
+                        "package": "com.instagram.android",
+                        "path": "ic_ins.png"
+                    },
+                    {
+                        "package": "com.google.android.apps.maps",
+                        "path": "ic_map.png"
+                    },
+                    {
+                        "package": "com.google.android.dialer",
+                        "path": "ic_phone.png"
+                    },
+                    {
+                        "package": "org.telegram.messenger",
+                        "path": "ic_telegram.png"
+                    },
+                    {
+                        "package": "com.ss.android.ugc.trill",
+                        "path": "ic_tiktok.png"
+                    },
+                    {
+                        "package": "tv.twitch.android.app",
+                        "path": "ic_twitch.png"
+                    },
+                    {
+                        "package": "com.twitter.android",
+                        "path": "ic_x.png"
+                    },
+                    {
+                        "package": "com.google.android.youtube",
+                        "path": "ic_ytb.png"
+                    }
+                ]
+            },
+            {
+                "id": "poem",
+                "title": "Poem",
+                "icons": [
+                    {
+                        "package": "com.google.android.gm",
+                        "path": "ic_email.png"
+                    },
+                    {
+                        "package": "com.facebook.katana",
+                        "path": "ic_fb.png"
+                    },
+                    {
+                        "package": "com.instagram.android",
+                        "path": "ic_ins.png"
+                    },
+                    {
+                        "package": "com.google.android.apps.maps",
+                        "path": "ic_map.png"
+                    },
+                    {
+                        "package": "com.google.android.dialer",
+                        "path": "ic_phone.png"
+                    },
+                    {
+                        "package": "org.telegram.messenger",
+                        "path": "ic_telegram.png"
+                    },
+                    {
+                        "package": "com.ss.android.ugc.trill",
+                        "path": "ic_tiktok.png"
+                    },
+                    {
+                        "package": "tv.twitch.android.app",
+                        "path": "ic_twitch.png"
+                    },
+                    {
+                        "package": "com.twitter.android",
+                        "path": "ic_x.png"
+                    },
+                    {
+                        "package": "com.google.android.youtube",
+                        "path": "ic_ytb.png"
+                    }
+                ]
+            },
+            {
+                "id": "linner",
+                "title": "Linner",
+                "icons": [
+                    {
+                        "package": "com.google.android.gm",
+                        "path": "ic_email.png"
+                    },
+                    {
+                        "package": "com.facebook.katana",
+                        "path": "ic_fb.png"
+                    },
+                    {
+                        "package": "com.instagram.android",
+                        "path": "ic_ins.png"
+                    },
+                    {
+                        "package": "com.google.android.apps.maps",
+                        "path": "ic_map.png"
+                    },
+                    {
+                        "package": "com.google.android.dialer",
+                        "path": "ic_phone.png"
+                    },
+                    {
+                        "package": "org.telegram.messenger",
+                        "path": "ic_telegram.png"
+                    },
+                    {
+                        "package": "com.ss.android.ugc.trill",
+                        "path": "ic_tiktok.png"
+                    },
+                    {
+                        "package": "tv.twitch.android.app",
+                        "path": "ic_twitch.png"
+                    },
+                    {
+                        "package": "com.twitter.android",
+                        "path": "ic_x.png"
+                    },
+                    {
+                        "package": "com.google.android.youtube",
+                        "path": "ic_ytb.png"
+                    }
+                ]
+            },
+            {
+                "id": "violetta",
+                "title": "Violetta",
+                "icons": [
+                    {
+                        "package": "com.google.android.gm",
+                        "path": "ic_email.png"
+                    },
+                    {
+                        "package": "com.facebook.katana",
+                        "path": "ic_fb.png"
+                    },
+                    {
+                        "package": "com.instagram.android",
+                        "path": "ic_ins.png"
+                    },
+                    {
+                        "package": "com.google.android.apps.maps",
+                        "path": "ic_map.png"
+                    },
+                    {
+                        "package": "com.google.android.dialer",
+                        "path": "ic_phone.png"
+                    },
+                    {
+                        "package": "org.telegram.messenger",
+                        "path": "ic_telegram.png"
+                    },
+                    {
+                        "package": "com.ss.android.ugc.trill",
+                        "path": "ic_tiktok.png"
+                    },
+                    {
+                        "package": "tv.twitch.android.app",
+                        "path": "ic_twitch.png"
+                    },
+                    {
+                        "package": "com.twitter.android",
+                        "path": "ic_x.png"
+                    },
+                    {
+                        "package": "com.google.android.youtube",
+                        "path": "ic_ytb.png"
+                    }
+                ]
+            },
+            {
+                "id": "textraphy",
+                "title": "Textraphy",
+                "icons": [
+                    {
+                        "package": "com.android.camera",
+                        "path": "ic_camera.png"
+                    },
+                    {
+                        "package": "com.facebook.katana",
+                        "path": "ic_fb.png"
+                    },
+                    {
+                        "package": [
+                            "com.miui.gallery",
+                            "com.sec.android.gallery3d",
+                            "com.oppo.gallery",
+                            "com.coloros.gallery",
+                            "com.oppo.camera.gallery",
+                            "com.mi.android.gallery"
+                        ],
+                        "path": "ic_gallery.png"
+                    },
+                    {
+                        "package": "com.google.android.googlequicksearchbox",
+                        "path": "ic_google.png"
+                    },
+                    {
+                        "package": "com.google.android.apps.maps",
+                        "path": "ic_map.png"
+                    },
+                    {
+                        "package": "com.google.android.apps.messaging",
+                        "path": "ic_mesage.png"
+                    },
+                    {
+                        "package": "com.facebook.orca",
+                        "path": "ic_messenger.png"
+                    },
+                    {
+                        "package": "com.google.android.apps.photos",
+                        "path": "ic_photo.png"
+                    },
+                    {
+                        "package": "com.android.vending",
+                        "path": "ic_playstore.png"
+                    },
+                    {
+                        "package": "com.android.settings",
+                        "path": "ic_setting.png"
+                    }
+                ]
+            },
+            {
+                "id": "neutra_nature",
+                "title": "Neutra Nature",
+                "icons": [
+                    {
+                        "package": "com.android.camera",
+                        "path": "ic_camera.png"
+                    },
+                    {
+                        "package": "com.android.chrome",
+                        "path": "ic_chrome.png"
+                    },
+                    {
+                        "package": "com.facebook.katana",
+                        "path": "ic_fb.png"
+                    },
+                    {
+                        "package": "com.instagram.android",
+                        "path": "ic_ins.png"
+                    },
+                    {
+                        "package": "com.google.android.apps.maps",
+                        "path": "ic_map.png"
+                    },
+                    {
+                        "package": "com.google.android.apps.messaging",
+                        "path": "ic_message.png"
+                    },
+                    {
+                        "package": "com.google.android.dialer",
+                        "path": "ic_phone.png"
+                    },
+                    {
+                        "package": "com.android.settings",
+                        "path": "ic_setting.png"
+                    },
+                    {
+                        "package": "com.twitter.android",
+                        "path": "ic_x.png"
+                    },
+                    {
+                        "package": "com.google.android.youtube",
+                        "path": "ic_ytb.png"
+                    }
+                ]
+            },
+            {
+                "id": "blind_color",
+                "title": "Blind Color",
+                "icons": [
+                    {
+                        "package": "com.android.camera",
+                        "path": "ic_camera.png"
+                    },
+                    {
+                        "package": "com.android.chrome",
+                        "path": "ic_chrome.png"
+                    },
+                    {
+                        "package": "com.facebook.katana",
+                        "path": "ic_fb.png"
+                    },
+                    {
+                        "package": "com.instagram.android",
+                        "path": "ic_ins.png"
+                    },
+                    {
+                        "package": "com.google.android.apps.maps",
+                        "path": "ic_map.png"
+                    },
+                    {
+                        "package": "com.google.android.apps.messaging",
+                        "path": "ic_message.png"
+                    },
+                    {
+                        "package": "com.google.android.dialer",
+                        "path": "ic_phone.png"
+                    },
+                    {
+                        "package": "com.android.settings",
+                        "path": "ic_setting.png"
+                    },
+                    {
+                        "package": "com.twitter.android",
+                        "path": "ic_x.png"
+                    },
+                    {
+                        "package": "com.google.android.youtube",
+                        "path": "ic_ytb.png"
+                    }
+                ]
+            },
+            {
+                "id": "renaissance",
+                "title": "Renaissance",
+                "icons": [
+                    {
+                        "package": "com.android.camera",
+                        "path": "ic_camera.png"
+                    },
+                    {
+                        "package": "com.android.chrome",
+                        "path": "ic_chrome.png"
+                    },
+                    {
+                        "package": "com.facebook.katana",
+                        "path": "ic_fb.png"
+                    },
+                    {
+                        "package": "com.instagram.android",
+                        "path": "ic_ins.png"
+                    },
+                    {
+                        "package": "com.google.android.apps.maps",
+                        "path": "ic_map.png"
+                    },
+                    {
+                        "package": "com.google.android.apps.messaging",
+                        "path": "ic_message.png"
+                    },
+                    {
+                        "package": "com.google.android.dialer",
+                        "path": "ic_phone.png"
+                    },
+                    {
+                        "package": "com.android.settings",
+                        "path": "ic_setting.png"
+                    },
+                    {
+                        "package": "com.twitter.android",
+                        "path": "ic_x.png"
+                    },
+                    {
+                        "package": "com.google.android.youtube",
+                        "path": "ic_ytb.png"
+                    }
+                ]
+            },
+            {
+                "id": "night_neon",
+                "title": "Night neon",
+                "icons": [
+                    {
+                        "package": "com.dropbox.android",
+                        "path": "ic_dropbox.png"
+                    },
+                    {
+                        "package": "com.facebook.katana",
+                        "path": "ic_fb.png"
+                    },
+                    {
+                        "package": "com.instagram.android",
+                        "path": "ic_ins.png"
+                    },
+                    {
+                        "package": "com.linkedin.android",
+                        "path": "ic_linkedin.png"
+                    },
+                    {
+                        "package": "com.facebook.orca",
+                        "path": "ic_messenger.png"
+                    },
+                    {
+                        "package": "com.google.android.dialer",
+                        "path": "ic_phone.png"
+                    },
+                    {
+                        "package": "com.pinterest",
+                        "path": "ic_pinterest.png"
+                    },
+                    {
+                        "package": "com.skype.raider",
+                        "path": "ic_skype.png"
+                    },
+                    {
+                        "package": "com.twitter.android",
+                        "path": "ic_x.png"
+                    },
+                    {
+                        "package": "com.google.android.youtube",
+                        "path": "ic_ytb.png"
+                    }
+                ]
+            }
+        ]
+    }
+]

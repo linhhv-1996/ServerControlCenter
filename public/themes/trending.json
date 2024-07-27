@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "category": "anime",
+        "path": "trending/trending_1.png"
+    },
+    {
+        "id": 2,
+        "category": "ai",
+        "path": "trending/trending_2.png"
+    },
+    {
+        "id": 3,
+        "category": "ai",
+        "path": "trending/trending_3.png"
+    },
+    {
+        "id": 4,
+        "category": "anime",
+        "path": "trending/trending_4.png"
+    },
+    {
+        "id": 5,
+        "category": "anime",
+        "path": "trending/trending_5.png"
+    },
+    {
+        "id": 6,
+        "category": "anime",
+        "path": "trending/trending_6.png"
+    },
+    {
+        "id": 7,
+        "category": "anime",
+        "path": "trending/trending_7.png"
+    },
+    {
+        "id": 8,
+        "category": "anime",
+        "path": "trending/trending_8.png"
+    },
+    {
+        "id": 9,
+        "category": "natural",
+        "path": "trending/trending_9.png"
+    },
+    {
+        "id": 10,
+        "category": "ai",
+        "path": "trending/trending_10.png"
+    }
+]

@@ -1,0 +1,421 @@
+[
+    {
+        "topic": "illustration",
+        "data": [
+            {
+                "id": "minimalism",
+                "title": "Minimalism",
+                "icons": [
+                    {
+                        "package": "com.android.camera",
+                        "path": "ic_camera.png"
+                    },
+                    {
+                        "package": "com.android.chrome",
+                        "path": "ic_chrome.png"
+                    },
+                    {
+                        "package": "com.facebook.katana",
+                        "path": "ic_fb.png"
+                    },
+                    {
+                        "package": "com.instagram.android",
+                        "path": "ic_ins.png"
+                    },
+                    {
+                        "package": "com.google.android.apps.maps",
+                        "path": "ic_map.png"
+                    },
+                    {
+                        "package": "com.google.android.apps.messaging",
+                        "path": "ic_message.png"
+                    },
+                    {
+                        "package": "com.google.android.dialer",
+                        "path": "ic_phone.png"
+                    },
+                    {
+                        "package": "com.android.settings",
+                        "path": "ic_setting.png"
+                    },
+                    {
+                        "package": "com.twitter.android",
+                        "path": "ic_x.png"
+                    },
+                    {
+                        "package": "com.google.android.youtube",
+                        "path": "ic_ytb.png"
+                    }
+                ]
+            },
+            {
+                "id": "boho_geometric",
+                "title": "Boho Geometric",
+                "icons": [
+                    {
+                        "package": "com.android.camera",
+                        "path": "ic_camera.png"
+                    },
+                    {
+                        "package": "com.android.chrome",
+                        "path": "ic_chrome.png"
+                    },
+                    {
+                        "package": "com.facebook.katana",
+                        "path": "ic_fb.png"
+                    },
+                    {
+                        "package": "com.instagram.android",
+                        "path": "ic_ins.png"
+                    },
+                    {
+                        "package": "com.google.android.apps.maps",
+                        "path": "ic_map.png"
+                    },
+                    {
+                        "package": "com.google.android.apps.messaging",
+                        "path": "ic_message.png"
+                    },
+                    {
+                        "package": "com.google.android.dialer",
+                        "path": "ic_phone.png"
+                    },
+                    {
+                        "package": "com.android.settings",
+                        "path": "ic_setting.png"
+                    },
+                    {
+                        "package": "com.ss.android.ugc.trill",
+                        "path": "ic_tiktok.png"
+                    },
+                    {
+                        "package": "com.google.android.youtube",
+                        "path": "ic_ytb.png"
+                    }
+                ]
+            },
+            {
+                "id": "set_pattern",
+                "title": "Set Pattern",
+                "icons": [
+                    {
+                        "package": "com.android.camera",
+                        "path": "ic_camera.png"
+                    },
+                    {
+                        "package": "com.android.chrome",
+                        "path": "ic_chrome.png"
+                    },
+                    {
+                        "package": "com.facebook.katana",
+                        "path": "ic_fb.png"
+                    },
+                    {
+                        "package": "com.instagram.android",
+                        "path": "ic_ins.png"
+                    },
+                    {
+                        "package": "com.google.android.apps.maps",
+                        "path": "ic_map.png"
+                    },
+                    {
+                        "package": "com.google.android.apps.messaging",
+                        "path": "ic_message.png"
+                    },
+                    {
+                        "package": "com.google.android.dialer",
+                        "path": "ic_phone.png"
+                    },
+                    {
+                        "package": "com.android.settings",
+                        "path": "ic_setting.png"
+                    },
+                    {
+                        "package": "com.ss.android.ugc.trill",
+                        "path": "ic_tiktok.png"
+                    },
+                    {
+                        "package": "com.google.android.youtube",
+                        "path": "ic_ytb.png"
+                    }
+                ]
+            },
+            {
+                "id": "concept",
+                "title": "Concept",
+                "icons": [
+                    {
+                        "package": "com.android.camera",
+                        "path": "ic_camera.png"
+                    },
+                    {
+                        "package": "com.android.chrome",
+                        "path": "ic_chrome.png"
+                    },
+                    {
+                        "package": "com.facebook.katana",
+                        "path": "ic_fb.png"
+                    },
+                    {
+                        "package": "com.instagram.android",
+                        "path": "ic_ins.png"
+                    },
+                    {
+                        "package": "com.google.android.apps.maps",
+                        "path": "ic_map.png"
+                    },
+                    {
+                        "package": "com.google.android.apps.messaging",
+                        "path": "ic_message.png"
+                    },
+                    {
+                        "package": "com.google.android.dialer",
+                        "path": "ic_phone.png"
+                    },
+                    {
+                        "package": "com.android.settings",
+                        "path": "ic_setting.png"
+                    },
+                    {
+                        "package": "com.twitter.android",
+                        "path": "ic_x.png"
+                    },
+                    {
+                        "package": "com.google.android.youtube",
+                        "path": "ic_ytb.png"
+                    }
+                ]
+            },
+            {
+                "id": "handdrawn",
+                "title": "Handdrawn",
+                "icons": [
+                    {
+                        "package": "com.android.camera",
+                        "path": "ic_camera.png"
+                    },
+                    {
+                        "package": "com.android.chrome",
+                        "path": "ic_chrome.png"
+                    },
+                    {
+                        "package": "com.google.android.gm",
+                        "path": "ic_email.png"
+                    },
+                    {
+                        "package": "com.facebook.katana",
+                        "path": "ic_fb.png"
+                    },
+                    {
+                        "package": "com.instagram.android",
+                        "path": "ic_ins.png"
+                    },
+                    {
+                        "package": "com.google.android.apps.maps",
+                        "path": "ic_map.png"
+                    },
+                    {
+                        "package": "com.google.android.apps.messaging",
+                        "path": "ic_message.png"
+                    },
+                    {
+                        "package": "com.google.android.dialer",
+                        "path": "ic_phone.png"
+                    },
+                    {
+                        "package": "com.android.settings",
+                        "path": "ic_setting.png"
+                    },
+                    {
+                        "package": "com.google.android.youtube",
+                        "path": "ic_ytb.png"
+                    }
+                ]
+            },
+            {
+                "id": "floral_stories",
+                "title": "Floral stories",
+                "icons": [
+                    {
+                        "package": "com.android.camera",
+                        "path": "ic_camera.png"
+                    },
+                    {
+                        "package": "com.android.chrome",
+                        "path": "ic_chrome.png"
+                    },
+                    {
+                        "package": "com.facebook.katana",
+                        "path": "ic_fb.png"
+                    },
+                    {
+                        "package": "com.instagram.android",
+                        "path": "ic_ins.png"
+                    },
+                    {
+                        "package": "com.google.android.apps.maps",
+                        "path": "ic_map.png"
+                    },
+                    {
+                        "package": "com.google.android.apps.messaging",
+                        "path": "ic_message.png"
+                    },
+                    {
+                        "package": "com.google.android.dialer",
+                        "path": "ic_phone.png"
+                    },
+                    {
+                        "package": "com.android.settings",
+                        "path": "ic_setting.png"
+                    },
+                    {
+                        "package": "com.twitter.android",
+                        "path": "ic_x.png"
+                    },
+                    {
+                        "package": "com.google.android.youtube",
+                        "path": "ic_ytb.png"
+                    }
+                ]
+            },
+            {
+                "id": "collection",
+                "title": "Collection",
+                "icons": [
+                    {
+                        "package": "com.android.camera",
+                        "path": "ic_camera.png"
+                    },
+                    {
+                        "package": "com.android.chrome",
+                        "path": "ic_chrome.png"
+                    },
+                    {
+                        "package": "com.google.android.deskclock",
+                        "path": "ic_clock.png"
+                    },
+                    {
+                        "package": "com.facebook.katana",
+                        "path": "ic_fb.png"
+                    },
+                    {
+                        "package": "com.instagram.android",
+                        "path": "ic_ins.png"
+                    },
+                    {
+                        "package": "com.google.android.apps.maps",
+                        "path": "ic_map.png"
+                    },
+                    {
+                        "package": "com.google.android.apps.messaging",
+                        "path": "ic_message.png"
+                    },
+                    {
+                        "package": "com.google.android.dialer",
+                        "path": "ic_phone.png"
+                    },
+                    {
+                        "package": "com.android.settings",
+                        "path": "ic_setting.png"
+                    },
+                    {
+                        "package": "com.twitter.android",
+                        "path": "ic_x.png"
+                    }
+                ]
+            },
+            {
+                "id": "abstract_hand",
+                "title": "Abstract hand",
+                "icons": [
+                    {
+                        "package": "com.android.camera",
+                        "path": "ic_camera.png"
+                    },
+                    {
+                        "package": "com.android.chrome",
+                        "path": "ic_chrome.png"
+                    },
+                    {
+                        "package": "com.facebook.katana",
+                        "path": "ic_fb.png"
+                    },
+                    {
+                        "package": "com.instagram.android",
+                        "path": "ic_ins.png"
+                    },
+                    {
+                        "package": "com.google.android.apps.maps",
+                        "path": "ic_map.png"
+                    },
+                    {
+                        "package": "com.google.android.apps.messaging",
+                        "path": "ic_message.png"
+                    },
+                    {
+                        "package": "com.google.android.dialer",
+                        "path": "ic_phone.png"
+                    },
+                    {
+                        "package": "com.android.settings",
+                        "path": "ic_setting.png"
+                    },
+                    {
+                        "package": "com.twitter.android",
+                        "path": "ic_x.png"
+                    },
+                    {
+                        "package": "com.google.android.youtube",
+                        "path": "ic_ytb.png"
+                    }
+                ]
+            },
+            {
+                "id": "floral_pattern",
+                "title": "Floral pattern",
+                "icons": [
+                    {
+                        "package": "com.android.camera",
+                        "path": "ic_camera.png"
+                    },
+                    {
+                        "package": "com.android.chrome",
+                        "path": "ic_chrome.png"
+                    },
+                    {
+                        "package": "com.facebook.katana",
+                        "path": "ic_fb.png"
+                    },
+                    {
+                        "package": "com.instagram.android",
+                        "path": "ic_ins.png"
+                    },
+                    {
+                        "package": "com.google.android.apps.maps",
+                        "path": "ic_map.png"
+                    },
+                    {
+                        "package": "com.google.android.apps.messaging",
+                        "path": "ic_message.png"
+                    },
+                    {
+                        "package": "com.google.android.dialer",
+                        "path": "ic_phone.png"
+                    },
+                    {
+                        "package": "com.android.settings",
+                        "path": "ic_setting.png"
+                    },
+                    {
+                        "package": "com.twitter.android",
+                        "path": "ic_x.png"
+                    },
+                    {
+                        "package": "com.google.android.youtube",
+                        "path": "ic_ytb.png"
+                    }
+                ]
+            }
+        ]
+    }
+]

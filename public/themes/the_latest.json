@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "category": "aesthetic",
+        "path": "the_latest/the_latest_1.png"
+    },
+    {
+        "id": 2,
+        "category": "holiday",
+        "path": "the_latest/the_latest_2.png"
+    },
+    {
+        "id": 3,
+        "category": "aesthetic",
+        "path": "the_latest/the_latest_3.png"
+    },
+    {
+        "id": 4,
+        "category": "aesthetic",
+        "path": "the_latest/the_latest_4.png"
+    },
+    {
+        "id": 5,
+        "category": "aesthetic",
+        "path": "the_latest/the_latest_5.png"
+    },
+    {
+        "id": 6,
+        "category": "aesthetic",
+        "path": "the_latest/the_latest_6.png"
+    },
+    {
+        "id": 7,
+        "category": "aesthetic",
+        "path": "the_latest/the_latest_7.png"
+    },
+    {
+        "id": 8,
+        "category": "aesthetic",
+        "path": "the_latest/the_latest_8.png"
+    },
+    {
+        "id": 9,
+        "category": "aesthetic",
+        "path": "the_latest/the_latest_9.png"
+    },
+    {
+        "id": 10,
+        "category": "aesthetic",
+        "path": "the_latest/the_latest_10.png"
+    }
+]

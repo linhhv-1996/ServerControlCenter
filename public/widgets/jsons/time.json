@@ -1,0 +1,119 @@
+[
+    {
+        "id": 0,
+        "background": "time_1_bg.png",
+        "thumbnail": "time_1.png",
+        "content": "time_content.png",
+        "gravity": "center",
+        "size": "medium",
+        "color": 0
+    },
+    {
+        "id": 1,
+        "background": "time_2_bg.png",
+        "thumbnail": "time_2.png",
+        "content": "time_content.png",
+        "gravity": "center",
+        "size": "small",
+        "color": 0
+    },
+    {
+        "id": 2,
+        "background": "time_3_bg.png",
+        "thumbnail": "time_3.png",
+        "content": "time_content.png",
+        "gravity": "center",
+        "size": "small",
+        "color": 0
+    },
+    {
+        "id": 3,
+        "background": "time_4_bg.png",
+        "thumbnail": "time_4.png",
+        "content": "time_content.png",
+        "gravity": "center",
+        "size": "medium",
+        "color": 0
+    },
+    {
+        "id": 4,
+        "background": "time_5_bg.png",
+        "thumbnail": "time_5.png",
+        "content": "time_content.png",
+        "gravity": "center",
+        "size": "small",
+        "color": 0
+    },
+    {
+        "id": 5,
+        "background": "time_6_bg.png",
+        "thumbnail": "time_6.png",
+        "content": "time_content.png",
+        "gravity": "center",
+        "size": "small",
+        "color": 0
+    },
+    {
+        "id": 6,
+        "background": "time_7_bg.png",
+        "thumbnail": "time_7.png",
+        "content": "time_content.png",
+        "gravity": "center",
+        "size": "medium",
+        "color": 0
+    },
+    {
+        "id": 7,
+        "background": "time_8_bg.png",
+        "thumbnail": "time_8.png",
+        "content": "time_content.png",
+        "gravity": "center",
+        "size": "medium",
+        "color": 0
+    },
+    {
+        "id": 8,
+        "background": "time_9_bg.png",
+        "thumbnail": "time_9.png",
+        "content": "time_content.png",
+        "gravity": "center",
+        "size": "medium",
+        "color": 0
+    },
+    {
+        "id": 9,
+        "background": "time_10_bg.png",
+        "thumbnail": "time_10.png",
+        "content": "time_content.png",
+        "gravity": "center",
+        "size": "small",
+        "color": 0
+    },
+    {
+        "id": 10,
+        "background": "time_11_bg.png",
+        "thumbnail": "time_11.png",
+        "content": "time_content.png",
+        "gravity": "center",
+        "size": "small",
+        "color": 0
+    },
+    {
+        "id": 11,
+        "background": "time_12_bg.png",
+        "thumbnail": "time_12.png",
+        "content": "time_content.png",
+        "gravity": "center",
+        "size": "small",
+        "color": 0
+    },
+    {
+        "id": 12,
+        "background": "time_13_bg.png",
+        "thumbnail": "time_13.png",
+        "content": "time_content.png",
+        "gravity": "center",
+        "size": "small",
+        "color": 0
+    }
+]

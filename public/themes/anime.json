@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "category": "anime",
+        "bg": "anime/anime_1.png"
+    },
+    {
+        "id": 2,
+        "category": "anime",
+        "bg": "anime/anime_2.png"
+    },
+    {
+        "id": 3,
+        "category": "anime",
+        "bg": "anime/anime_3.png"
+    },
+    {
+        "id": 4,
+        "category": "anime",
+        "bg": "anime/anime_4.png"
+    },
+    {
+        "id": 5,
+        "category": "anime",
+        "bg": "anime/anime_5.png"
+    },
+    {
+        "id": 6,
+        "category": "anime",
+        "bg": "anime/anime_6.png"
+    },
+    {
+        "id": 7,
+        "category": "anime",
+        "bg": "anime/anime_7.png"
+    },
+    {
+        "id": 8,
+        "category": "anime",
+        "bg": "anime/anime_8.png"
+    },
+    {
+        "id": 9,
+        "category": "anime",
+        "bg": "anime/anime_9.png"
+    },
+    {
+        "id": 10,
+        "category": "anime",
+        "bg": "anime/anime_10.png"
+    }
+]

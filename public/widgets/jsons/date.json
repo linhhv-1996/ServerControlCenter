@@ -1,0 +1,119 @@
+[
+    {
+        "id": 0,
+        "background": "date_1_bg.png",
+        "thumbnail": "date_1.png",
+        "content": "date_1_content.png",
+        "gravity": "right",
+        "size": "medium",
+        "color": 0
+    },
+    {
+        "id": 1,
+        "background": "date_2_bg.png",
+        "thumbnail": "date_2.png",
+        "content": "date_2_content.png",
+        "gravity": "center",
+        "size": "small",
+        "color": 0
+    },
+    {
+        "id": 2,
+        "background": "date_3_bg.png",
+        "thumbnail": "date_3.png",
+        "content": "date_3_content.png",
+        "gravity": "center",
+        "size": "small",
+        "color": 0
+    },
+    {
+        "id": 3,
+        "background": "date_4_bg.png",
+        "thumbnail": "date_4.png",
+        "content": "date_4_content.png",
+        "gravity": "left",
+        "size": "medium",
+        "color": 0
+    },
+    {
+        "id": 4,
+        "background": "date_5_bg.png",
+        "thumbnail": "date_5.png",
+        "content": "date_5_content.png",
+        "gravity": "center",
+        "size": "small",
+        "color": 0
+    },
+    {
+        "id": 5,
+        "background": "date_6_bg.png",
+        "thumbnail": "date_6.png",
+        "content": "date_6_content.png",
+        "gravity": "center",
+        "size": "small",
+        "color": 0
+    },
+    {
+        "id": 6,
+        "background": "date_7_bg.png",
+        "thumbnail": "date_7.png",
+        "content": "date_7_content.png",
+        "gravity": "left",
+        "size": "medium",
+        "color": 1
+    },
+    {
+        "id": 7,
+        "background": "date_8_bg.png",
+        "thumbnail": "date_8.png",
+        "content": "date_8_content.png",
+        "gravity": "left",
+        "size": "medium",
+        "color": 0
+    },
+    {
+        "id": 8,
+        "background": "date_9_bg.png",
+        "thumbnail": "date_9.png",
+        "content": "date_9_content.png",
+        "gravity": "right",
+        "size": "medium",
+        "color": 2
+    },
+    {
+        "id": 9,
+        "background": "date_10_bg.png",
+        "thumbnail": "date_10.png",
+        "content": "date_10_content.png",
+        "gravity": "center",
+        "size": "small",
+        "color": 2
+    },
+    {
+        "id": 10,
+        "background": "date_11_bg.png",
+        "thumbnail": "date_11.png",
+        "content": "date_11_content.png",
+        "gravity": "center",
+        "size": "small",
+        "color": 3
+    },
+    {
+        "id": 11,
+        "background": "date_12_bg.png",
+        "thumbnail": "date_12.png",
+        "content": "date_12_content.png",
+        "gravity": "center",
+        "size": "small",
+        "color": 3
+    },
+    {
+        "id": 12,
+        "background": "date_13_bg.png",
+        "thumbnail": "date_13.png",
+        "content": "date_13_content.png",
+        "gravity": "center",
+        "size": "small",
+        "color": 0
+    }
+]

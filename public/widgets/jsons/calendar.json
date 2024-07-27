@@ -1,0 +1,106 @@
+[
+    {
+        "id": 0,
+        "background": "calendar_1_bg.png",
+        "thumbnail": "calendar_1.png",
+        "gravity": "left",
+        "size": "medium",
+        "color": 1
+    },
+    {
+        "id": 1,
+        "background": "calendar_2_bg.png",
+        "thumbnail": "calendar_2.png",
+        "gravity": "center",
+        "size": "small",
+        "color": 1
+    },
+    {
+        "id": 2,
+        "background": "calendar_3_bg.png",
+        "thumbnail": "calendar_3.png",
+        "gravity": "center",
+        "size": "small",
+        "color": 1
+    },
+    {
+        "id": 3,
+        "background": "calendar_4_bg.png",
+        "thumbnail": "calendar_4.png",
+        "gravity": "left",
+        "size": "medium",
+        "color": 0
+    },
+    {
+        "id": 4,
+        "background": "calendar_5_bg.png",
+        "thumbnail": "calendar_5.png",
+        "gravity": "center",
+        "size": "small",
+        "color": 1
+    },
+    {
+        "id": 5,
+        "background": "calendar_6_bg.png",
+        "thumbnail": "calendar_6.png",
+        "gravity": "center",
+        "size": "small",
+        "color": 3
+    },
+    {
+        "id": 6,
+        "background": "calendar_7_bg.png",
+        "thumbnail": "calendar_7.png",
+        "gravity": "right",
+        "size": "medium",
+        "color": 0
+    },
+    {
+        "id": 7,
+        "background": "calendar_8_bg.png",
+        "thumbnail": "calendar_8.png",
+        "gravity": "left",
+        "size": "medium",
+        "color": 0
+    },
+    {
+        "id": 8,
+        "background": "calendar_9_bg.png",
+        "thumbnail": "calendar_9.png",
+        "gravity": "left",
+        "size": "medium",
+        "color": 0
+    },
+    {
+        "id": 9,
+        "background": "calendar_10_bg.png",
+        "thumbnail": "calendar_10.png",
+        "gravity": "center",
+        "size": "small",
+        "color": 1
+    },
+    {
+        "id": 10,
+        "background": "calendar_11_bg.png",
+        "thumbnail": "calendar_11.png",
+        "gravity": "center",
+        "size": "small",
+        "color": 2
+    },
+    {
+        "id": 11,
+        "background": "calendar_12_bg.png",
+        "thumbnail": "calendar_12.png",
+        "gravity": "center",
+        "size": "small",
+        "color": 0
+    },
+    {
+        "id": 12,
+        "background": "calendar_13_bg.png",
+        "thumbnail": "calendar_13.png",
+        "gravity": "center",
+        "size": "small",
+        "color": 2
+    }
+]

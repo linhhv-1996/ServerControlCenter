@@ -1,0 +1,119 @@
+[
+    {
+        "id": 0,
+        "background": "clock_1_bg.png",
+        "thumbnail": "clock_1.png",
+        "content": "clock_1_content.png",
+        "gravity": "center",
+        "size": "medium",
+        "color": 4
+    },
+    {
+        "id": 1,
+        "background": "clock_2_bg.png",
+        "thumbnail": "clock_2.png",
+        "content": "clock_2_content.png",
+        "gravity": "center",
+        "size": "small",
+        "color": 3
+    },
+    {
+        "id": 2,
+        "background": "clock_3_bg.png",
+        "thumbnail": "clock_3.png",
+        "content": "clock_3_content.png",
+        "gravity": "center",
+        "size": "small",
+        "color": 1
+    },
+    {
+        "id": 3,
+        "background": "clock_4_bg.png",
+        "thumbnail": "clock_4.png",
+        "content": "clock_4_content.png",
+        "gravity": "center",
+        "size": "medium",
+        "color": 2
+    },
+    {
+        "id": 4,
+        "background": "clock_5_bg.png",
+        "thumbnail": "clock_5.png",
+        "content": "clock_5_content.png",
+        "gravity": "center",
+        "size": "small",
+        "color": 0
+    },
+    {
+        "id": 5,
+        "background": "clock_6_bg.png",
+        "thumbnail": "clock_6.png",
+        "content": "clock_6_content.png",
+        "gravity": "center",
+        "size": "small",
+        "color": 0
+    },
+    {
+        "id": 6,
+        "background": "clock_7_bg.png",
+        "thumbnail": "clock_7.png",
+        "content": "clock_7_content.png",
+        "gravity": "center",
+        "size": "medium",
+        "color": 4
+    },
+    {
+        "id": 7,
+        "background": "clock_8_bg.png",
+        "thumbnail": "clock_8.png",
+        "content": "clock_8_content.png",
+        "gravity": "center",
+        "size": "medium",
+        "color": 4
+    },
+    {
+        "id": 8,
+        "background": "clock_9_bg.png",
+        "thumbnail": "clock_9.png",
+        "content": "clock_9_content.png",
+        "gravity": "center",
+        "size": "medium",
+        "color": 5
+    },
+    {
+        "id": 9,
+        "background": "clock_10_bg.png",
+        "thumbnail": "clock_10.png",
+        "content": "clock_10_content.png",
+        "gravity": "center",
+        "size": "small",
+        "color": 1
+    },
+    {
+        "id": 10,
+        "background": "clock_11_bg.png",
+        "thumbnail": "clock_11.png",
+        "content": "clock_11_content.png",
+        "gravity": "center",
+        "size": "small",
+        "color": 3
+    },
+    {
+        "id": 11,
+        "background": "clock_12_bg.png",
+        "thumbnail": "clock_12.png",
+        "content": "clock_12_content.png",
+        "gravity": "center",
+        "size": "small",
+        "color": 3
+    },
+    {
+        "id": 12,
+        "background": "clock_13_bg.png",
+        "thumbnail": "clock_13.png",
+        "content": "clock_13_content.png",
+        "gravity": "center",
+        "size": "small",
+        "color": 1
+    }
+]
